@@ -1,4 +1,4 @@
-def count_languges(languages):
+def count_languages(languages):
     return len(languages)
 
 my_languages = ["Python", "Java", "JavaScript", "C++"]
