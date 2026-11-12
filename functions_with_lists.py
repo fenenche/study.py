@@ -4,4 +4,4 @@ def count_languages(languages):
 my_languages = ["Python", "Java", "JavaScript", "C++"]
 
 result = count_languages(my_languages)
-print(result)
+print(result)      
