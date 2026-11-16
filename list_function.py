@@ -1,12 +1,12 @@
-def add_fruit(fruits, new_fruit):
+def add_language(languages, new_language):
 
-    fruits.append(new_fruit)
+    languages.append(new_language)
 
-    return fruits
+    return languages
 
-my_fruits = ["Apple", "Mango", "Orange"]
+my_languages = ["Python", "Java"]
 
-result = add_fruit(my_fruits,"Banana")
+result = add_language(my_languages,"JavaScript")
 
 print(result)
 
